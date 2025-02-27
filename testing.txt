@@ -1,2 +1,2 @@
-hello!!
-希望我可以排好版面
+<h1>hello world</h1>
+<p>Welcome to the web tutorial!</p>
